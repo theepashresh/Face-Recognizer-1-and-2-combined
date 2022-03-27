@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+
+
+
+
+button{
+    background-color: aqua;
+    font-size: 30px;
+    width: 500px;
+    height: 400px;
+    background-image: url("https://www.sectechfield.com/img/face-scan-min.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: greenyellow;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+
+}
+
+
+
